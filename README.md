@@ -1,0 +1,2 @@
+# ALGO-9.6
+CONTOH 6
